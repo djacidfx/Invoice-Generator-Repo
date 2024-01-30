@@ -330,7 +330,7 @@
     <string name="how_to_use_title">How to use</string>
 
     <!--Splash Screen-->
-    <string name="invoice_generator_splash">Invoice Generator</string>
+    <string name="invoice_generator_splash">My Invoice Generator</string>
     <!-- About Screen -->
     <string name="generate_invoices_in_seconds_title">Generate Invoices in seconds</string>
     <string name="invoice_generator">Invoice Generator</string>
@@ -340,7 +340,7 @@
     <!-- Printed Success -->
     <string name="invoice_printed_n_successfully">Invoice Printed \n Successfully!</string>
     <string name="back_to_main">Back to main</string>
-    <string name="developed_by_epicSoft">Developed by EpicSoft</string>
+    <string name="developed_by_epicSoft">Created by WildCat Studio</string>
     <string name="instant_invoice">Instant Invoice</string>
 
     <!-- Dialog add my item -->
@@ -529,7 +529,7 @@
     <string name="ok_dialog_main">OK</string>
 
     <!-- nav header -->
-    <string name="jhone_doe_nav_header">Jhone Doe</string>
+    <string name="jhone_doe_nav_header">John Doe</string>
     <string name="_12345_6789_nav_header">+12345 6789</string>
 
     <!-- Dialog edit invoice -->
@@ -598,12 +598,12 @@
     <string name="price_per_item_add_new">Price per item :</string>
 
     <!-- Ads -->
-    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="interstitial_video_ad_unit_id">ca-app-pub-3940256099942544/8691691433</string>
-    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
-    <string name="native_video_ad_unit_id">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="app_id">ca-app-pub-2916714021613915~9690411935</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2916714021613915/2374743284</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2916714021613915/5336820680</string>
+    <string name="interstitial_video_ad_unit_id">ca-app-pub-2916714021613915/3559890880</string>
+    <string name="native_ad_unit_id">ca-app-pub-2916714021613915/1693701529</string>
+    <string name="native_video_ad_unit_id">ca-app-pub-2916714021613915/8319578766</string>
 
     <string-array name="com_google_android_gms_fonts_certs">
         <item>@array/com_google_android_gms_fonts_certs_dev</item>
