@@ -308,14 +308,14 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     } catch (ActivityNotFoundException unused) {
                         MainActivity mainActivity2 = MainActivity.this;
-                        mainActivity2.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("http://play.google.com/store/apps/details?id=" + getPackageName())));
+                        mainActivity2.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("https://play.google.com/store/apps/details?id=" + getPackageName())));
                         break;
                     }
                 case R.id.menu_item_setting:
                     startActivity(new Intent(MainActivity.this, EditBusinessInfoActivity.class));
                     break;
                 case R.id.menu_item_share_app:
-                    String message = getString(R.string.app_name) + " is generate various types of invoice with different different background as per you choose. You can download it from google play store via link : http://play.google.com/store/apps/details?id=" + getPackageName();
+                    String message = getString(R.string.app_name) + " is generate various types of invoice with different different background as per you choose. You can download it from google play store via link : https://play.google.com/store/apps/details?id=" + getPackageName();
                     Intent intent = new Intent("android.intent.action.SEND");
                     intent.setType("text/plain");
                     intent.putExtra("android.intent.extra.TEXT", message);

@@ -333,9 +333,9 @@
     <string name="invoice_generator_splash">My Invoice Generator</string>
     <!-- About Screen -->
     <string name="generate_invoices_in_seconds_title">Generate Invoices in seconds</string>
-    <string name="invoice_generator">Invoice Generator</string>
-    <string name="invoice_generator1">Billing App</string>
-    <string name="version_1_0">Version 1.0</string>
+    <string name="invoice_generator">Offline Invoice Generator</string>
+    <string name="invoice_generator1">Offline Invoicing App</string>
+    <string name="version_1_0">Version 1.0.3</string>
 
     <!-- Printed Success -->
     <string name="invoice_printed_n_successfully">Invoice Printed \n Successfully!</string>
